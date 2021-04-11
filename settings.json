@@ -1,3 +1,7 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "javascript.format.semicolons": "insert",
+    "javascript.preferences.quoteStyle": "double",
+    "typescript.format.semicolons": "insert",
+    "typescript.tsc.autoDetect": "build"
 }
