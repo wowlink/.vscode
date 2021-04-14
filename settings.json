@@ -3,5 +3,9 @@
     "javascript.format.semicolons": "insert",
     "javascript.preferences.quoteStyle": "double",
     "typescript.format.semicolons": "insert",
-    "typescript.tsc.autoDetect": "build"
+    "typescript.tsc.autoDetect": "build",
+    "editor.formatOnPaste": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true
 }
