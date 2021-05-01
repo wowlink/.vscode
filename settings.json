@@ -7,5 +7,6 @@
     "editor.formatOnPaste": true,
     "eslint.alwaysShowStatus": true,
     "eslint.format.enable": true,
-    "eslint.lintTask.enable": true
+    "eslint.lintTask.enable": true,
+    "git.autofetchPeriod": 30
 }
